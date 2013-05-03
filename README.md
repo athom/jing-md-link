@@ -19,6 +19,9 @@ So I made this workflow to make it work for Screencast.com.
 
 ![](http://content.screencast.com/users/yeer/folders/Jing/media/1e0d42b2-7c76-4fc8-8248-3f3579377ed0/00000334.png)
 
+![](http://content.screencast.com/users/yeer/folders/Jing/media/7bc653de-2dad-49f8-8973-8a22c08be73c/00000339.png)
+
+
 ##### 2. Makr sure u r using ruby 1.9+
 
 ![](http://content.screencast.com/users/yeer/folders/Jing/media/b4b17fe7-d4bf-443b-ae75-6afba21876b4/00000335.png)
