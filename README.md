@@ -27,4 +27,13 @@ So I made this workflow to make it work for Screencast.com.
 
 ![](http://content.screencast.com/users/yeer/folders/Jing/media/1210743a-fdfe-477c-8dc7-5ce1885e7445/00000336.png)
 
+##### 4. Use screencast to upload your screenshot via Jing
+![](http://content.screencast.com/users/yeer/folders/Jing/media/ed51f306-67c2-47aa-ae7c-2950949598ac/00000337.png)
 
+
+##### 5. Wait until it uploaded, and press "cmd+shift+v"
+
+```
+![](http://content.screencast.com/users/yeer/folders/Jing/media/ed51f306-67c2-47aa-ae7c-2950949598ac/00000337.png)
+
+```
